@@ -5,3 +5,5 @@ cambio en la rama main
 " Tarea_reto2 Cambios en el archivo1"
 
 "Cambios en el archivo1 por Michael"
+
+"Cambio realizado por Ana Sofia en el archivo1"
