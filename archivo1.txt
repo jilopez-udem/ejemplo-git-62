@@ -8,3 +8,6 @@ cambio en la rama main
 
 "Cambio realizado por Ana Sofia en el archivo1"
 Cambio realizado por Isabella Ceballos Bedoya
+
+
+""Cambio realizado por Esteban Parra"
