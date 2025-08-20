@@ -7,3 +7,4 @@ cambio en la rama main
 "Cambios en el archivo1 por Michael"
 
 "Cambio realizado por Ana Sofia en el archivo1"
+Cambio realizado por Isabella Ceballos Bedoya
